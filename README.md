@@ -1,3 +1,9 @@
+##Features
+
+1) Mobile first responsive design approach using flexbox and grid layouts. 
+2) Extracting the data from data.js file to simulate API response.
+3) Filtering the data based on Price and type of food using filter array method.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
